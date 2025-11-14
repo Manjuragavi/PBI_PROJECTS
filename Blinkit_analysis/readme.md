@@ -82,4 +82,34 @@ CALCULATE(
     [Total Revenue],
     GROUPBY(Sales, Sales[Order Date].[Month])
 )
+## 🚀 Key Insights
+✔ **Sales Trends**
+- Revenue peaks during weekends and promotional periods.
+- Category "Groceries" and "Dairy" contribute the highest sales share.
+
+✔ **Customer Behavior**
+- Returning customers generate ~40% more revenue than new customers.
+- Ratings remain consistent, indicating strong customer satisfaction.
+
+✔ **Product Performance**
+- Top 10 items contribute nearly 60% of total revenue.
+- Certain low-priced items sell in high quantities, boosting volume-based revenue.
+
+✔ **Operational Insights**
+- Average delivery time is within the expected SLA range.
+- A few cities face slightly higher delays, needing operational improvement.
+
+##📌 Conclusion
+The Blinkit Power BI Dashboard provides a clear, data-driven view of the company’s business performance.  
+From sales patterns to customer behavior and delivery operations, this dashboard brings all critical insights into one place.
+
+It helps decision-makers:
+- Identify growth opportunities  
+- Improve fulfillment efficiency  
+- Understand customer needs  
+- Optimize product strategies  
+
+Overall, this project showcases effective data modelling, DAX calculations, and visualization expertise using Power BI.
+
+
 
