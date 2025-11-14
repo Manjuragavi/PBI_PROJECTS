@@ -82,7 +82,8 @@ CALCULATE(
     [Total Revenue],
     GROUPBY(Sales, Sales[Order Date].[Month])
 )
-----
+
+---
 ## 🚀 Key Insights
 
 ✔ **Sales Trends**
@@ -100,9 +101,10 @@ CALCULATE(
 ✔ **Operational Insights**
 - Average delivery time is within the expected SLA range.
 - A few cities face slightly higher delays, needing operational improvement.
-----
 
-##📌 Conclusion
+---
+
+## 📌 Conclusion
 The Blinkit Power BI Dashboard provides a clear, data-driven view of the company’s business performance.  
 From sales patterns to customer behavior and delivery operations, this dashboard brings all critical insights into one place.
 
